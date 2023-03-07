@@ -6,9 +6,9 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-- [ ] Addition image is complete
-- [ ] Addition code is complete
-- [ ] This item is not complete
+- [X] Addition image is complete
+- [X] Addition code is complete
+- [ ] Task list in progress
 
 ![Image of MotogGP 2023 calendar](https://photos.motogp.com/2022/09/30/calendar-3_2.big.jpg)
 
